@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1305461",
+      "name": "表格",
+      "font_class": "biaoge",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "1440911",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "4817584",
+      "name": "外链",
+      "font_class": "wailian",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "7339832",
+      "name": "树状图",
+      "font_class": "shuzhuangtu",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "7350866",
+      "name": "地球，国际化，语言切换",
+      "font_class": "huaban-",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "10352335",
+      "name": "图表",
+      "font_class": "tubiao",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "11124973",
+      "name": "表单",
+      "font_class": "17",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    }
+  ]
+}
